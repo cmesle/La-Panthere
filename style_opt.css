@@ -47,3 +47,8 @@ blockquote {
 .social {
     color: #424242;
 }
+
+#form_notice {
+    font-style: italic;
+    text-align: right;
+}
